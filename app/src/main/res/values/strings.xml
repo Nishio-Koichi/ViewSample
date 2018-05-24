@@ -5,4 +5,15 @@
     <string name="bt_save">保存</string>
     <string name="cb_drink">ドリンク</string>
     <string name="cb_food">フード</string>
+    <string name="rb_male">男</string>
+    <string name="rb_female">女</string>
+    <string-array name="lv_cocktaillist">
+    <item>ホワイトレディー</item>
+    <item>バラライカ</item>
+    <item>XYZ</item>
+    <item>ニューヨーク</item>
+    <item>マンハッタン </item>
+    <item>ミシシッピミュール</item>
+    <item>ブルーハワイ</item>
+    </string-array>
 </resources>
