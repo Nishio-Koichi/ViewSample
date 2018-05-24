@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
@@ -16,4 +17,15 @@
     android:text="@string/tv_msg"
     android:textSize="25sp"/>
 
- </LinearLayout>
+    <EditText
+
+        android:id="@+id/etInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:layout_marginTop="5dp"
+        android:background="#ffffff"
+        android:inputType="text"/>
+
+
+</LinearLayout>
